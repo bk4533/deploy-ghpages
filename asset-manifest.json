@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-ghpages/static/css/main.24903f1f.css",
-    "main.js": "/deploy-ghpages/static/js/main.a6e5c015.js",
+    "main.js": "/deploy-ghpages/static/js/main.8e2b02df.js",
     "static/media/project3.png": "/deploy-ghpages/static/media/project3.29447cf8b47fa1db63b0.png",
     "static/media/project1.png": "/deploy-ghpages/static/media/project1.0064e79d7c358b6c5128.png",
     "static/media/hero1.jpg": "/deploy-ghpages/static/media/hero1.41d84077baf30bc52332.jpg",
@@ -11,10 +11,10 @@
     "static/media/hero2.png": "/deploy-ghpages/static/media/hero2.d9788b1c8a378994c695.png",
     "index.html": "/deploy-ghpages/index.html",
     "main.24903f1f.css.map": "/deploy-ghpages/static/css/main.24903f1f.css.map",
-    "main.a6e5c015.js.map": "/deploy-ghpages/static/js/main.a6e5c015.js.map"
+    "main.8e2b02df.js.map": "/deploy-ghpages/static/js/main.8e2b02df.js.map"
   },
   "entrypoints": [
     "static/css/main.24903f1f.css",
-    "static/js/main.a6e5c015.js"
+    "static/js/main.8e2b02df.js"
   ]
 }
