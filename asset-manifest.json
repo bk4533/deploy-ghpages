@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/deploy-ghpages/static/css/main.073c9b0a.css",
-    "main.js": "/deploy-ghpages/static/js/main.57a65c8b.js",
-    "static/media/logo.svg": "/deploy-ghpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/deploy-ghpages/static/css/main.24903f1f.css",
+    "main.js": "/deploy-ghpages/static/js/main.a6e5c015.js",
+    "static/media/project3.png": "/deploy-ghpages/static/media/project3.29447cf8b47fa1db63b0.png",
+    "static/media/project1.png": "/deploy-ghpages/static/media/project1.0064e79d7c358b6c5128.png",
+    "static/media/hero1.jpg": "/deploy-ghpages/static/media/hero1.41d84077baf30bc52332.jpg",
+    "static/media/project2.png": "/deploy-ghpages/static/media/project2.184cc0f06fa7fbcead28.png",
+    "static/media/me.jpg": "/deploy-ghpages/static/media/me.2e7fb38ce55f604c9481.jpg",
+    "static/media/main.jpg": "/deploy-ghpages/static/media/main.88420b6bc538b80df753.jpg",
+    "static/media/hero2.png": "/deploy-ghpages/static/media/hero2.d9788b1c8a378994c695.png",
     "index.html": "/deploy-ghpages/index.html",
-    "main.073c9b0a.css.map": "/deploy-ghpages/static/css/main.073c9b0a.css.map",
-    "main.57a65c8b.js.map": "/deploy-ghpages/static/js/main.57a65c8b.js.map"
+    "main.24903f1f.css.map": "/deploy-ghpages/static/css/main.24903f1f.css.map",
+    "main.a6e5c015.js.map": "/deploy-ghpages/static/js/main.a6e5c015.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.57a65c8b.js"
+    "static/css/main.24903f1f.css",
+    "static/js/main.a6e5c015.js"
   ]
 }
