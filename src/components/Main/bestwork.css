@@ -1,0 +1,41 @@
+#BestWork{
+    width: 100%;
+    height: 720px;
+    padding-top: 70px;
+}
+#BestWork>.container{
+    text-align: center;
+}
+.BestWork_title{
+    width: 225px;
+    height: 70px;
+    margin: 0 auto;
+    font-size: 46px;
+    font-weight: bold;
+    color: #222;
+    border-bottom:3px solid #222 ;
+    margin-bottom:50px ;
+  }
+.bestwork_project1{
+    background-image: url(../../img/project1.png);
+    background-size: cover  ;
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 768px){
+    #BestWork{
+      width: 100%;
+      height: 2020px;
+      padding-top: 70px;
+  }
+  .bestwork_project1{
+    background-image: url(../../img/project1.png);
+    background-size: cover  ;
+    width: 350px;
+    height: 500px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
+  }

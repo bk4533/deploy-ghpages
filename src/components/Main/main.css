@@ -1,0 +1,27 @@
+/* main */ 
+.sc-bczSft>.container{
+    text-align: center;
+    padding-top: 230px;
+  }           
+  .main_title{
+    margin-bottom: 30px;
+  }
+  .main_title>span{
+    font-size: 3.2rem;
+    font-weight: 700;
+    color: #fff;
+  }
+  .main_line{
+    width: 150px;
+    border: 3px solid #fff;
+    margin: 0 auto;
+  }
+  .main_content{
+    margin-top: 30px;
+  }
+  .main_content>P{
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+  }
+  /* main */
